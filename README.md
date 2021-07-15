@@ -12,6 +12,7 @@ Meu nome é Gabriel Weber, atualmente iniciei minha carreira com desenvolvimento
 ## Estatísticas
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=GWeber1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GWeber1&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **GWeber1/GWeber1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
