@@ -3,7 +3,6 @@
 Meu nome é Gabriel Weber, atualmente iniciei minha carreira com desenvolvimento fullstack no nível Júnior, mas buscando um dia ser um dev pleno. Possuo repositórios ainda em desenvolvimento com programação web e atualmente meu foco tem sido amplamente voltado para o aprendizado em programação e administração de banco de dados. Mas como ninguém é de ferro, também sou streamer iniciante e almejando crescimento na plataforma Twitch 😄.
 
 ## About me
-{backend}
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/GWeber1)](https://github.com/GWeber1) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-weber-052232201/)](https://www.linkedin.com/in/gabriel-weber-052232201/) [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&link=https://twitch.tv/reifreljord)](https://twitch.tv/reifreljord)
 
