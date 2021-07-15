@@ -1,11 +1,13 @@
 ### Seja muito bem Vindo! 👋
 
-Meu nome é Gabriel Weber, atualmente iniciei minha carreira com desenvolvimento fullstack no nível Júnior, mas buscando um dia ser um dev pleno. Possuo repositórios ainda em processo de desenvolvimento nas linguagens PHP utilizando dependências como Smarty e Opis Database através do gerenciador de dependências Composer, também trabalho com Javascript possuindo alguns projetos utilizando bibliotecas nessa linguagem (AJAX e Axios) junto à API's, mas que ainda estão em processo de melhoria e atualização.
+Meu nome é Gabriel Weber, atualmente iniciei minha carreira com desenvolvimento fullstack no nível Júnior, mas buscando um dia ser um dev pleno. Possuo repositórios ainda em desenvolvimento com programação web e atualmente meu foco tem sido amplamente voltado para o aprendizado em programação e administração de banco de dados. Mas como ninguém é de ferro, também sou streamer iniciante e almejando crescimento na plataforma Twitch 😄.
 
 ## About me
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/GWeber1)](https://github.com/GWeber1) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-weber-052232201/)](https://www.linkedin.com/in/gabriel-weber-052232201/) [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&link=https://twitch.tv/reifreljord)](https://twitch.tv/reifreljord)
 
+## Conhecimentos
+[![Html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/HTML)](https://developer.mozilla.org/pt-BR/docs/Web/HTML) [![Css Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/CSS)](https://developer.mozilla.org/pt-BR/docs/Web/CSS) [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&link=https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Glossary/PHP)](https://developer.mozilla.org/pt-BR/docs/Glossary/PHP) [![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen&link=https://developer.mozilla.org/pt-BR/docs/Glossary/Python)](https://developer.mozilla.org/pt-BR/docs/Glossary/Python)
 
 <!--
 **GWeber1/GWeber1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
