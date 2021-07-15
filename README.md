@@ -1,6 +1,6 @@
 ### Seja muito bem Vindo! 👋
 
-Meu nome é Gabriel Weber, atualmente iniciei minha carreira com desenvolvimento fullstack no nível Júnior, mas buscando um dia ser um dev pleno. Possuo repositórios ainda em desenvolvimento com programação web e atualmente meu foco tem sido amplamente voltado para o aprendizado em programação e administração de banco de dados. Mas como ninguém é de ferro, também sou streamer iniciante e almejando crescimento na plataforma Twitch 😄.
+Meu nome é Gabriel Weber, atualmente sou estudante do curso de Sistemas para Internet e iniciei minha carreira com desenvolvimento fullstack no nível Júnior, mas buscando um dia ser um dev pleno. Possuo repositórios ainda em desenvolvimento com programação web e atualmente meu foco tem sido amplamente voltado para o aprendizado em programação e administração de banco de dados. Mas como ninguém é de ferro, também sou streamer iniciante e almejando crescimento na plataforma Twitch 😄.
 
 ## About me
 
