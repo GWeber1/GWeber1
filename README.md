@@ -4,7 +4,7 @@ Meu nome é Gabriel Weber, atualmente iniciei minha carreira com desenvolvimento
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/GWeber1)](https://github.com/GWeber1) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-weber-052232201/)](https://www.linkedin.com/in/gabriel-weber-052232201/) [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&link=https://twitch.tv/reifreljord)](https://twitch.tv/reifreljord) [!Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=gabrielweber2001@gmail.com)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/GWeber1)](https://github.com/GWeber1) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-weber-052232201/)](https://www.linkedin.com/in/gabriel-weber-052232201/) [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&link=https://twitch.tv/reifreljord)](https://twitch.tv/reifreljord)
 
 
 <!--
