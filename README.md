@@ -1,4 +1,6 @@
-### Hi there 👋
+### Seja muito bem Vindo! 👋
+
+Meu nome é Gabriel Weber, atualmente iniciei minha carreira com desenvolvimento fullstack no nível Júnior, mas buscando um dia ser um dev pleno. Possuo repositórios ainda em processo de desenvolvimento nas linguagens PHP utilizando dependências como Smarty e Opis Database através do gerenciador de dependências Composer, também trabalho com Javascript possuindo alguns projetos utilizando bibliotecas nessa linguagem (AJAX e Axios) junto à API's, mas que ainda estão em processo de melhoria e atualização.
 
 <!--
 **GWeber1/GWeber1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
