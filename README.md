@@ -4,9 +4,7 @@ Meu nome é Gabriel Weber, atualmente iniciei minha carreira com desenvolvimento
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GWeber1)](https://github.com/GWeber1)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-weber-052232201/)](https://www.linkedin.com/in/gabriel-weber-052232201/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GWeber1)](https://github.com/GWeber1) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-weber-052232201/)](https://www.linkedin.com/in/gabriel-weber-052232201/)
 
 [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&link=https://twitch.tv/reifreljord)](https://twitch.tv/reifreljord)
 
