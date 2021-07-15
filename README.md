@@ -8,6 +8,9 @@ Meu nome é Gabriel Weber, atualmente iniciei minha carreira com desenvolvimento
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-weber-052232201/)](https://www.linkedin.com/in/gabriel-weber-052232201/)
 
+[![Twitch Badge](https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&link=https://twitch.tv/reifreljord)].(https://twitch.tv/reifreljord)
+
+
 <!--
 **GWeber1/GWeber1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
