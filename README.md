@@ -2,6 +2,12 @@
 
 Meu nome é Gabriel Weber, atualmente iniciei minha carreira com desenvolvimento fullstack no nível Júnior, mas buscando um dia ser um dev pleno. Possuo repositórios ainda em processo de desenvolvimento nas linguagens PHP utilizando dependências como Smarty e Opis Database através do gerenciador de dependências Composer, também trabalho com Javascript possuindo alguns projetos utilizando bibliotecas nessa linguagem (AJAX e Axios) junto à API's, mas que ainda estão em processo de melhoria e atualização.
 
+## About me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
+
 <!--
 **GWeber1/GWeber1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
