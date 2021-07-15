@@ -6,7 +6,7 @@ Meu nome é Gabriel Weber, atualmente iniciei minha carreira com desenvolvimento
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GWeber1)](https://github.com/GWeber1)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/gabriel-weber-052232201/)](https://www.linkedin.com/in/gabriel-weber-052232201/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-weber-052232201/)](https://www.linkedin.com/in/gabriel-weber-052232201/)
 
 <!--
 **GWeber1/GWeber1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
