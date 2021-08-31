@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-My name is Gabriel, I'm from Brazil and nowadays i'm student of the Systems for Internet course and started my career with full stack development. I have repos still in development progress on the web development area and my target today is the learning in programming systems since the DB untill the front-end. But how no one is iron made, I'm starting my own streams on the Twitch where I try create entertainment for everybody. Follow me for more informations! 😄
+My name is Gabriel, I'm from Brazil and nowadays i'm student of Systems for Internet course and started my career with full stack development. I have repos still in development progress on the web development area and my target today is the learning in programming systems since the DB untill the front-end. But how no one is iron made, I'm starting my own streams on the Twitch where I try create entertainment for everybody. Follow me for more informations! 😄
 
 ## About me
 
