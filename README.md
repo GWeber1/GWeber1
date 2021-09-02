@@ -13,3 +13,5 @@ My name is Gabriel, I'm from Brazil and nowadays i'm student of Systems for Inte
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=GWeber1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GWeber1&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![Snake animation](https://github.com/GWeber1/GWeber1/blob/output/github-contribution-grid-snake.svg)
